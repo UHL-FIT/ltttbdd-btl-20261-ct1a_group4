@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">StudySync_BTL</string>
+
+    <string name="title_trang_chu">Trang chủ</string>
+    <string name="title_lich_hoc">Lịch học theo tuần</string>
+    <string name="title_lich_thi">Lịch thi và đếm ngược</string>
+    <string name="title_them_moi">Thêm lịch mới</string>
+    <string name="title_thong_ke">Thống kê kết quả</string>
+    <string name="text_xin_chao">Xin chào 👋</string>
+    <string name="text_chuc_ngay_moi">Chúc bạn một ngày học\ntập tốt!</string>
+    <string name="label_tinh_hinh">Tình hình học tập</string>
+    <string name="label_thao_tac">Thao tác nhanh</string>
+    <string name="btn_xac_nhan">Xác nhận</string>
+    <string name="btn_huy_bo">Hủy bỏ</string>
+
+    <string name="tab_lich_hoc">Lịch Học Theo Tuần</string>
+    <string name="tab_dem_nguoc">Đếm Ngược Ngày Thi</string>
+    <string name="label_tuan">TUẦN</string>
+    <string name="btn_tuan_truoc">◀ Tuần trước</string>
+    <string name="btn_tuan_sau">Tuần sau ▶</string>
+    <string name="msg_khong_co_lich">🎉 Hôm nay bạn không có lịch học!</string>
+    <string name="msg_empty_lich_thi">Chưa có lịch thi nào được thêm.</string>
+    <string name="label_lich_hoc_ngay">Lịch học ngày %1$s</string>
+    <string name="title_danh_sach_thi">DANH SÁCH MÔN THI</string>
+    <string name="label_ngay">Ngày</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn muốn xóa môn %1$s như thế nào?</string>
+    <string name="btn_xoa_ngay_nay">Chỉ xóa ngày này</string>
+    <string name="btn_xoa_tat_ca">Xóa tất cả lịch</string>
+    <string name="btn_xoa">Xóa</string>
+
+    <string name="stat_so_ngay_hoc">Số ngày có lịch học</string>
+    <string name="stat_mon_format">%1$02d môn</string>
+    <string name="stat_sap_thi">Sắp thi</string>
+    <string name="action_xem_lich">Xem lịch học</string>
+    <string name="action_them_mon">Thêm môn mới</string>
+
+    <string name="title_chinh_sua_hoc">Chỉnh sửa lịch học</string>
+    <string name="title_chinh_sua_thi">Chỉnh sửa lịch thi</string>
+    <string name="mode_lich_thi">📅 Chế độ: Lịch thi riêng</string>
+    <string name="mode_lich_hoc">📚 Chế độ: Bảng lịch học</string>
+    <string name="desc_mode">Gạt để chuyển đổi giữa lịch học và lịch thi.</string>
+    <string name="label_ten_mon">Tên môn học</string>
+    <string name="label_ngay_bat_dau">Ngày bắt đầu</string>
+    <string name="label_ngay_ket_thuc">Ngày kết thúc</string>
+    <string name="label_ngay_thi">Ngày thi chính thức</string>
+    <string name="placeholder_chon_ngay">Chọn ngày</string>
+    <string name="placeholder_chon_ngay_thi">Bấm chọn ngày thi</string>
+    <string name="label_gio_bat_dau">Giờ bắt đầu</string>
+    <string name="label_gio_ket_thuc">Giờ kết thúc</string>
+    <string name="label_tin_chi">Tín chỉ</string>
+    <string name="label_phong">Phòng</string>
+    <string name="label_ghi_chu">Ghi chú</string>
+    <string name="btn_cap_nhat">Cập Nhật</string>
+    <string name="btn_luu_lich">Lưu Lịch</string>
+
+    <string name="label_thong_ke_tin_chi">THỐNG KÊ SỐ TÍN CHỈ ĐÃ ĐĂNG KÝ</string>
+    <string name="msg_empty_thong_ke">Chưa có môn học nào được đăng ký.</string>
+    <string name="label_tin_chi_format">%1$d tín chỉ</string>
+    <string name="label_tong_so_dang_ky">Tổng số đăng ký</string>
+</resources>
